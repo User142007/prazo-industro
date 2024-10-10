@@ -1,0 +1,48 @@
+body{
+   background-repeat: no-repeat;
+   background-size: 1200px;
+   background-image:url(IMG_2918.jpg); 
+}
+
+.contact{
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+h1{
+   text-align: center;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color:white ;
+}
+li{
+   text-decoration: gray;
+}
+.p{
+   color: grey;
+}
+a:link{
+   color:white;
+}
+a:hover{
+   color:blue;
+   background-color: brown;
+}
+a:visited{
+   color:yellowgreen;
+}
+a:link, a:visited {
+   background-color: black;
+   padding: 0.2cm 0.35cm;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+ }
+h3{
+   font-size: 25pt;
+   color: white;
+}
+#p1{
+   text-align: right;
+   color: white;
+}
